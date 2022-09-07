@@ -10,3 +10,4 @@
 "task 9, write a script that duplicates the last line of the file iacta"\
 "task 10, write a script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders"\
 "task 12, create a script that displays the 10 newest files in the current directory"\
+"task 13, create a script that takes a list of words as input and prints only words that appear exactly once"\
