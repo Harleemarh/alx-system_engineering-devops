@@ -4,3 +4,4 @@
 "task 3, display the content of /etc/passwd and /etc/hosts"\
 "task 4, display the last 10 lines of /etc/passwd"\
 "task 5, display the first 10 lines of /etc/passwd"\
+"task 6, write a script that displays the third line of the file iacta"\
