@@ -18,3 +18,4 @@
 "task 18, display all lines of the file /etc/ssh/sshd_config starting with a letter"\
 "task 19, replace all characters A and c from input to Z and e respectively"\
 "task 20, create a script that removes all letters c and C from input"\
+"task 21, write a script that reverse its input"\
