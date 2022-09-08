@@ -22,3 +22,4 @@
 "task 22, write a script that displays all users and their home directories, sorted by users"\
 "task 11, write a script that counts the number of directories and sub-directories in the current directory"\
 "task 23, write a command that finds all empty files and directories in the current directory and all sub-directories"\
+"task 24, write a script that lists all the files with a .gif extension in the current directory and all its sub-directories"\
