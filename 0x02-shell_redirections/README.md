@@ -20,3 +20,4 @@
 "task 20, create a script that removes all letters c and C from input"\
 "task 21, write a script that reverse its input"\
 "task 22, write a script that displays all users and their home directories, sorted by users"\
+"task 11, write a script that counts the number of directories and sub-directories in the current directory"\
